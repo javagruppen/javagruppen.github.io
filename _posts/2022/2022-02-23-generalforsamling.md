@@ -5,7 +5,7 @@ tags: [Generalforsamling]
 author: Martin Boel
 ---
 
-Javagruppens ordinære generalforsamling bliver afholdt tirsdag 23. februar 2022 kl 21.00 online via Zoom eller opmøde på vores adresse på Nytorv.
+Javagruppens ordinære generalforsamling bliver afholdt onsdag 23. februar 2022 kl 21.00 online via Zoom eller opmøde på vores adresse på Nytorv.
 
 I umiddelbar forlængelse af generalforsamlingen afholdes et konstituerende bestyrelsesmøde på Zoom.
 
