@@ -15,6 +15,8 @@ Javagruppens aktuelle vedtægter findes her:
 
 [Javagruppens aktuelle vedtægter](https://docs.google.com/document/u/1/d/1JDyBvy0gbkhfIn04bNMM8wa5hkEvQmeqyo6d4hp0RnA/pub)
 
+[Regnskab 2021](https://drive.google.com/file/d/15XHzOhbCXQ0XPsCjRNXZ_sXYyLntwU_U/view?usp=sharing)
+
 Med venlig hilsen
 
 Martin Boel
