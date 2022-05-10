@@ -5,7 +5,7 @@ tags: [JCafe, Test, Assert-J, Kotlin, Akka, København, Meetup]
 ---
 
 Agendaen indeholder
-Assert-J
+Assert-J + jUnit5's ParameterizedTest
 Akka
 Java og Kotlin samtaler
 Måske en snak om RavenDB
