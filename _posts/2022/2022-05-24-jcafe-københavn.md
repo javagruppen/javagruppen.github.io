@@ -5,17 +5,18 @@ tags: [JCafe, Test, Assert-J, Kotlin, Akka, København, Meetup]
 ---
 
 Agendaen indeholder
-Assert-J + jUnit5's ParameterizedTest
-Akka
-Java og Kotlin samtaler
-Måske en snak om RavenDB
+* Assert-J
+* jUnit5's ParameterizedTest
+* Akka
+* Java og Kotlin samtaler
+* Opfølgning på RavenDB mødet i April
 
 24\. maj kl 17.00 - 19.00 hos Lund og Bendsen 
 
 Lund&Bendsen A/S · Nytorv 17 ST · København K 1450 · Denmark
 
 
-Ordet er som sædvanligt frit, så kom gerne med indlæg, gerne på dagen og kontakt
+Ordet er som sædvanligt frit, så kom gerne med indlæg, gerne på dagen og kontakt gerne arrangøren
 
 Tilmelding er nødvendig via: [Meetup](https://www.meetup.com/Copenhagen-Javagruppen-Meetup/events) 
 
