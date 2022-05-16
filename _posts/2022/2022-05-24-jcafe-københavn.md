@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JCafe 24. maj 2022 i København
+title: JCafe i København
 tags: [JCafe, Test, Assert-J, Kotlin, Akka, København, Meetup]
 ---
 
@@ -11,7 +11,7 @@ Agendaen indeholder
 * Java og Kotlin samtaler
 * Opfølgning på RavenDB mødet i April
 
-24\. maj kl 17.00 - 19.00 hos Lund og Bendsen 
+Datoen er ikke lagt fast. 
 
 Lund&Bendsen A/S · Nytorv 17 ST · København K 1450 · Denmark
 
