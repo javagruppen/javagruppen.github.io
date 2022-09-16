@@ -4,7 +4,7 @@ title: Vlad Michela og Hibernate performance 28. september kl 18.00 i København
 tags: [JCafe, Test, Assert-J, Kotlin, Akka, København, Meetup]
 ---
 
-<img src="/assets/img/VladMihalcea.jpg" style="width: 250px" width="250" height="100">
+<img src="/assets/img/VladMihalcea.jpg" style="width: 250px">
 
 We are lucky to have Vlad in Copenhagen where he will share tips about JPA High-Performance.
 
