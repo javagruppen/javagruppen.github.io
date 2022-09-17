@@ -13,8 +13,6 @@ Ligeledes er Berlin en ganske hyggelig by.
 
 ![camunda](https://camunda.com/wp-content/uploads/2020/05/logo-camunda-black.svg)
 
-https://camunda.com/wp-content/uploads/2020/05/logo-camunda-black.svg
-
 
 Javagruppen vil gerne vide om du kunne tænke dig at tage med ? kontakt [Anders Kristian Andersen](mailto:anders@completingsoftware.com) 
 hvor vi kan tale om hotel og fly. Totalt for hotel, fly og venue er ca. DKK 8000. Herfra kan trækkes 20% af billetprisen via rabatkoden. 
