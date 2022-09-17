@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CamundaCon den 12. og 13. september 2019 i Berlin
-tags: [CamnudaCon, Workflow, Decision Automation, Berlin, Meetup]
+tags: [CamundaCon, Workflow, Decision Automation, Berlin, Meetup]
 author: Anders Kristian Andersen
 ---
 

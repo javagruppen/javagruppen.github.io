@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CamundaCon den 4. 5 og 6. oktober 2022 i Berlin
-tags: [CamnudaCon, Workflow, Decision Automation, Berlin, Meetup]
+tags: [CamundaCon, Workflow, Decision Automation, Berlin, Meetup]
 author: Anders Kristian Andersen
 ---
 
