@@ -32,7 +32,7 @@ Javagruppen har fået nogle rabatkoder til konferencen, som giver 20 procent rab
 Erfaringen er at hoteller relativ hurtig bliver booket. Kontakt mig på mobil +4522166377
 
 
-Tilmelding til konferencen var:  [CamundaCon](https://www.camundacon.com/tickets/)
+Tilmelding til konferencen er: [CamundaCon](https://www.camundacon.com/tickets/)
 
 
  
