@@ -15,7 +15,7 @@ Ligeledes er Berlin en ganske hyggelig by.
 
 
 Javagruppen vil gerne vide om du kunne tænke dig at tage med ? kontakt [Anders Kristian Andersen](mailto:anders@completingsoftware.com) 
-hvor vi kan tale om hotel og fly. Totalt for hotel, fly og venue er ca. DKK 8000. Herfra kan trækkes 20% af billetprisen via rabatkoden. 
+hvor vi kan tale om hotel og fly. Totalt for hotel, fly og venue er ca. DKK 8000. Herfra kan trækkes 20% af konference-prisen via rabatkoden. 
 
 Konferencen er onsdag og torsdag. Tirsdagen er en "HackDay" 
 
@@ -27,7 +27,7 @@ Man kan tage hjem torsdag kl 20:50 fra Brandenburg (BER)
 
 
 Javagruppen har fået nogle rabatkoder til konferencen, som giver 20 procent rabat.
-Erfaringen er at hoteller relativ hurtig bliver booket. Kontakt mig på mobil +4522166377
+Erfaringen er at hoteller relativ hurtig bliver booket. Kontakt mig på ovennævnte e-mail  [Anders Kristian Andersen](mailto:anders@completingsoftware.com)
 
 
 Tilmelding til konferencen er: [CamundaCon](https://www.camundacon.com/tickets/)
