@@ -8,7 +8,10 @@ author: Anders Kristian Andersen
 Javagruppen henviser igen iår til en tur til [CamundaCon](https://www.camundacon.com/) i Berlin
 
 Camunda er et workflow system, som giver et microservice miljø helt nye muligheder. 
-Ligeledes er Berlin en ganske hyggelig by.
+
+Konferencen har været rent online de sidste to år på grund af Corona. Nu den tilbage fysisk.
+
+Berlin en ganske hyggelig by.
 
 
 ![camunda](https://camunda.com/wp-content/uploads/2020/05/logo-camunda-black.svg)
