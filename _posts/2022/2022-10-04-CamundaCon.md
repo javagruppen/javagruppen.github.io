@@ -9,7 +9,7 @@ Javagruppen henviser igen iår til en tur til [CamundaCon](https://www.camundaco
 
 Camunda er et workflow system, som giver et microservice miljø helt nye muligheder. 
 
-Konferencen har været rent online de sidste to år på grund af Corona. Nu den tilbage fysisk.
+Konferencen har været alene online de sidste to år på grund af Corona. Nu den tilbage både fysisk og online.
 
 Berlin en ganske hyggelig by.
 
