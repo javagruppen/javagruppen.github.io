@@ -5,7 +5,7 @@ tags: [CamnudaCon, Workflow, Decision Automation, Berlin, Meetup]
 author: Anders Kristian Andersen
 ---
 
-Javagruppen tilbyder igen iår arrangere en tur til [CamundaCon](https://www.camundacon.com/) i Berlin
+Javagruppen henviser igen iår til en tur til [CamundaCon](https://www.camundacon.com/) i Berlin
 
 Camunda er et workflow system, som giver et microservice miljø helt nye muligheder. 
 Ligeledes er Berlin en ganske hyggelig by.
