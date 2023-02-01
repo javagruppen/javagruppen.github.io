@@ -15,7 +15,7 @@ Dagsorden for JCafe
 17.30 - 19.00 Indlæg fra fremmødte 
 
 
-Indkaldelse og dagsorden for generalforsamling: [https://docs.google.com/document/d/e/2PACX-1vS5IVz1n1BMNlvADtUStXnUSwYsulPQY2QloMxwtuPx4wS2nx64vp_Lzv_R1RkSIg/pub](https://docs.google.com/document/d/e/2PACX-1vS5IVz1n1BMNlvADtUStXnUSwYsulPQY2QloMxwtuPx4wS2nx64vp_Lzv_R1RkSIg/pub)
+[Indkaldelse og dagsorden for generalforsamling](https://docs.google.com/document/d/e/2PACX-1vS5IVz1n1BMNlvADtUStXnUSwYsulPQY2QloMxwtuPx4wS2nx64vp_Lzv_R1RkSIg/pub)
 
 Javagruppens aktuelle vedtægter findes her: 
 
