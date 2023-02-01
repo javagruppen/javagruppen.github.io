@@ -6,7 +6,7 @@ author: Martin Boel
 ---
 
 Javagruppens ordinære generalforsamling bliver afholdt tirsdag 28. februar 2023 kl 17.30 online via google meet. Vi starter med en times JCafe, hvor fremmødte diskuterer, præsenterer interessante teknologier, og vi får en pizza. Vi slutter af med den formelle generalforsamling kl 19.00, hvor medlemmer også er velkomne.
-Det er kun muligt at deltage via google meet, eller ved opmøde på Nytorv 17 efter aftale.
+Det er kun muligt at deltage via google meet, eller ved opmøde på Nytorv 17, 1450 København K,  efter aftale.
 
 Tilmelding: [Meetup](https://www.meetup.com/copenhagen-javagruppen-meetup/events/291331918) eller mail til [info@javagruppen.dk](mailto:info@javagruppen.dk)
 
