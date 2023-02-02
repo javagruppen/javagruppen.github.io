@@ -21,6 +21,8 @@ gem install bundle
 gem install jekyll
 bundle install
 bundle exec jekyll serve
+
+bundle update github-pages
 ```
 
 ### On Mac OSX
