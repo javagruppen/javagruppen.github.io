@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Indkaldelse til JCafe & Javagruppens ordinære generalforsamling 2023
+title: Indkaldelse til JCafe & Javagruppens ordinære generalforsamling 28. februar 2023
 tags: [Generalforsamling]
 author: Martin Boel
 ---
