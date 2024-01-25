@@ -9,7 +9,7 @@ Javagruppens ordinære generalforsamling bliver afholdt tirsdag 27. februar 2024
 
 Det er kun muligt at deltage via google meet, eller ved opmøde på Nytorv 17 st, 1450 København K,  efter aftale.
 
-Tilmelding: [Meetup](https://www.meetup.com/copenhagen-javagruppen-meetup/events/291331918) eller mail til [info@javagruppen.dk](mailto:info@javagruppen.dk)
+Tilmelding: [Meetup](https://www.meetup.com/copenhagen-javagruppen-meetup/events/298776326) eller mail til [info@javagruppen.dk](mailto:info@javagruppen.dk)
 
 Dagsorden for JCafe
 
