@@ -7,9 +7,9 @@ author: Martin Boel
 
 Vi har inviteret 2 eksperter fra VirtusLab til følgende program:
 
-16:00 - 17:00 Arthur will talk about Green and Energy Efficiency in the JVM of 2024
-17:00 - 18:00 Jacek will talk about Annotation Processors of 2024
-18:00 - 19:00 Pizza's and networking.
+* 16:00 - 17:00 Arthur will talk about Green and Energy Efficiency in the JVM of 2024
+* 17:00 - 18:00 Jacek will talk about Annotation Processors of 2024
+* 18:00 - 19:00 Pizza's and networking.
 
 
 Tilmelding: [Meetup](https://www.meetup.com/copenhagen-javagruppen-meetup/events/300285095)
