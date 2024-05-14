@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JCafe om JVM energi effektivitet og annotations processorer, den 22. maj 2024 kl 16-19 
+title: JCafe om JVM energi effektivitet, annotations processorer og JobRunr, den 22. maj 2024 kl 16-19 
 tags: [JCafe]
 author: Martin Boel
 ---
