@@ -5,7 +5,7 @@ tags: [JCafe]
 author: Martin Boel
 ---
 
-Vi har inviteret 2 eksperter fra VirtusLab til følgende program:
+Vi har inviteret 2 eksperter fra VirtusLab, og Ronald Dehuysser til følgende program:
 
 * 16:00 - 17:00 Arthur will talk about Green and Energy Efficiency in the JVM of 2024
 * 17:00 - 18:00 Jacek will talk about Annotation Processors of 2024
