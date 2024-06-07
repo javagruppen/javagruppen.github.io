@@ -23,7 +23,7 @@ Jakob Jenkov vil gerne starte med at underholde om Java’s egen HTTP-Client og 
 Tilmelding: [Meetup](https://www.meetup.com/copenhagen-javagruppen-meetup/events/301503412)
 
 <p align="center">
-  <img src="/assets/img/posts/2024/2024-06-20-java-http-clients.jpg">
+  <img src="/assets/img/posts/2024/2024-06-20-java-http-client.jpg">
 </p>
 
 
