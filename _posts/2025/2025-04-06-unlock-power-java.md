@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Kafka is more ACID Than Your Database, by Tim Berglund
-tags: [Kafka, København, Meetup]
+title: Unlock the power of modern Java, by Jesper Udby
+tags: [Java, København, Meetup]
 ---
 
 Vi er rigtig glade for at kunne invitere til gå-hjem møde den 8. april, klokken 17:00-19:00, hos: [Sopra Steria](https://maps.app.goo.gl/P7Ls4c9Rj6gojPQr9)  
