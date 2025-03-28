@@ -34,10 +34,8 @@ Gå ikke glip af denne mulighed for at fremtidssikre dine Java-færdigheder!
 
 <p><img src="/assets/img/posts/2025/power-java.webp" alt="The future with Java" /></p>
 
-<!-- more --> 
-
 ### Tilmelding 
 
-Tilmelding er nødvendig via:  [Meetup](https://www.meetup.com/copenhagen-javagruppen-meetup/events/306911399/) 
+Tilmelding via:  [Meetup](https://www.meetup.com/copenhagen-javagruppen-meetup/events/306911399/) 
 
 
