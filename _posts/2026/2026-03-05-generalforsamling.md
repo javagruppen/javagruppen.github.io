@@ -6,6 +6,7 @@ author: Martin Boel
 ---
 
 Javagruppens ordinære generalforsamling bliver afholdt tirsdag 5. marts 2026 kl 20.00 hvor alle registrerede medlemmer er velkomne.
+
 Det er kun muligt at deltage i online mødet efter aftale - du bliver tilsendt et møde link ved tilmeldelsen.
 Ønsker du at deltage i generalforsamlingen bedes du tilmelde dig ved at melde sig til på meetup eller skrive til info@javagruppen.dk, så sender vi koordinaterne til mødet.
 
@@ -20,6 +21,16 @@ Tilmelding: [Meetup](https://www.meetup.com/copenhagen-javagruppen-meetup/events
 
 
 [Indkaldelse og dagsorden for generalforsamling](https://docs.google.com/document/d/1JccYPs6QBGujiLX3dev5B7mKLU_mZlXq/edit?usp=sharing&ouid=108038639090077937009&rtpof=true&sd=true)
+
+
+1. Valg af dirigent
+2. Bestyrelsens beretning + godkendelse
+3. Kassererens beretning + godkendelse
+4. Beretning fra evt. Udvalg
+5. Behandling af indkomne forslag
+6. Fastsættelse af kontingenter
+7. Valg af bestyrelse og bestyrelsessuppleanter
+
 
 Javagruppens aktuelle vedtægter findes her: 
 
