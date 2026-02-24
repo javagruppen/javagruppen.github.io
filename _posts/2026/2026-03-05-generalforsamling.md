@@ -1,28 +1,33 @@
 ---
 layout: post
-title: Indkaldelse til JCafe & Javagruppens ordinære generalforsamling 25. februar 2025
+title: Indkaldelse til Javagruppens ordinære generalforsamling 5. marts 2026
 tags: [Generalforsamling]
 author: Martin Boel
 ---
 
-Javagruppens ordinære generalforsamling bliver afholdt tirsdag 25. februar 2025 kl 18.. Vi starter med en times JCafe, hvor fremmødte diskuterer, præsenterer interessante teknologier, og vi får en pizza. Vi slutter af med den formelle generalforsamling kl 19.00, hvor medlemmer også er velkomne.
+Javagruppens ordinære generalforsamling bliver afholdt tirsdag 5. marts 2026 kl 20.00 hvor alle registrerede medlemmer er velkomne.
+Det er kun muligt at deltage i online mødet efter aftale - du bliver tilsendt et møde link ved tilmeldelsen.
+Ønsker du at deltage i generalforsamlingen bedes du tilmelde dig ved at melde sig til på meetup eller skrive til info@javagruppen.dk, så sender vi koordinaterne til mødet.
 
-Det er kun muligt at deltage ved opmøde på Nytorv 17 st, 1450 København K,  efter aftale.
-
-Tilmelding: [Meetup](https://www.meetup.com/copenhagen-javagruppen-meetup/events/306013917/?slug=copenhagen-javagruppen-meetup&eventId=298776326) eller mail til [info@javagruppen.dk](mailto:info@javagruppen.dk)
-
-Dagsorden for JCafe
-
-18.00- 19.00 Indlæg fra fremmødte 
+I umiddelbar forlængelse af generalforsamlingen afholdes et konstituerende bestyrelsesmøde.
 
 
-[Indkaldelse og dagsorden for generalforsamling](https://docs.google.com/document/d/1uIi5bNrFvWGnztBiX8DO9ID80KRvTPOa/edit?usp=drive_link&ouid=108038639090077937009&rtpof=true&sd=true)
+Tilmelding: [Meetup](https://www.meetup.com/copenhagen-javagruppen-meetup/events/313510123/?slug=copenhagen-javagruppen-meetup&eventId=306013917) eller mail til [info@javagruppen.dk](mailto:info@javagruppen.dk)
+
+
+
+20.00 Kort indlæg om gitoro med git hosting på dansk jord.
+
+
+[Indkaldelse og dagsorden for generalforsamling](https://docs.google.com/document/d/1JccYPs6QBGujiLX3dev5B7mKLU_mZlXq/edit?usp=sharing&ouid=108038639090077937009&rtpof=true&sd=true)
 
 Javagruppens aktuelle vedtægter findes her: 
 
 [Javagruppens aktuelle vedtægter](https://docs.google.com/document/u/1/d/1JDyBvy0gbkhfIn04bNMM8wa5hkEvQmeqyo6d4hp0RnA/pub)
 
-[Regnskab 2024](https://drive.google.com/file/d/1xA6fTQvsI18O8kWm93IGX87CJoxExym-/view?usp=sharing)
+[Regnskab 2025](https://drive.google.com/file/d/1sfME1zUGON5nYNZhDX5kIuAUyFTqTDsj/view?usp=drive_link)
+
+[Ledelsens regnskabserklæring](https://drive.google.com/file/d/1l5Hbn-dtg7rEBwYuXdVknKgfJDXd32j_/view?usp=drive_link)
 
 Med venlig hilsen
 
