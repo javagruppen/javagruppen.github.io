@@ -5,7 +5,7 @@ tags: [Generalforsamling]
 author: Martin Boel
 ---
 
-Javagruppens ordinære generalforsamling bliver afholdt tirsdag 5. marts 2026 kl 20.00 hvor alle registrerede medlemmer er velkomne.
+Javagruppens ordinære generalforsamling bliver afholdt torsdag 5. marts 2026 kl 20.00 hvor alle registrerede medlemmer er velkomne.
 
 Det er kun muligt at deltage i online mødet efter aftale - du bliver tilsendt et møde link ved tilmeldelsen.
 Ønsker du at deltage i generalforsamlingen bedes du tilmelde dig ved at melde sig til på meetup eller skrive til info@javagruppen.dk, så sender vi koordinaterne til mødet.
